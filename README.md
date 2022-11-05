@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dyllanwli
-- 👀 I’m interested in Reinforcement Learning, Web3 and Algo Trading.
-- 🌱 I’m currently working on my Ph.D in decision intelligence.
-- 💞️ I’m looking to collaborate on RL applications and algo trading. 
+- 👀 I’m interested in GIS, Reinforcement Learning, Web3 and Algo Trading.
+- 💞️ I’m looking to collaborate on open source RL applications and algo trading. 
 - 📫 How to reach me: leave any issues to my repos.
 
 <!---
